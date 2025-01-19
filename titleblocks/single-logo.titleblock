@@ -1,0 +1,54 @@
+<titleblocktemplate name="single-logo">
+    <information></information>
+    <logos>
+        <logo storage="" name="qelectrotech.svg" type="svg"/>
+    </logos>
+    <grid cols="50px;r25%;r50%;r25%;" rows="25;25;">
+        <logo rowspan="1" name="" resource="qelectrotech.svg" row="0" col="0"/>
+        <field name="author" hadjust="true" row="0" displaylabel="true" align="left" col="1" valign="center">
+            <value>
+                <translation lang="en">%author</translation>
+            </value>
+            <label>
+                <translation lang="en">Author</translation>
+                <translation lang="uk">Автор</translation>
+            </label>
+        </field>
+        <field rowspan="1" name="title" hadjust="true" row="0" displaylabel="false" align="center" col="2" valign="center">
+            <value>
+                <translation lang="en">%title</translation>
+            </value>
+            <label>
+                <translation lang="en">Title</translation>
+                <translation lang="uk">Назва</translation>
+            </label>
+        </field>
+        <field name="file" hadjust="true" row="0" displaylabel="true" align="left" col="3" valign="center">
+            <value>
+                <translation lang="en">%filename</translation>
+            </value>
+            <label>
+                <translation lang="en">File</translation>
+                <translation lang="uk">Файл</translation>
+            </label>
+        </field>
+        <field name="date" hadjust="true" row="1" displaylabel="true" align="left" col="1" valign="center">
+            <value>
+                <translation lang="en">%date</translation>
+            </value>
+            <label>
+                <translation lang="en">Date</translation>
+                <translation lang="uk">Дата</translation>
+            </label>
+        </field>
+        <field name="folio" hadjust="true" row="1" displaylabel="true" align="left" col="3" valign="center">
+            <value>
+                <translation lang="en">%{folio-id}/%{folio-total}</translation>
+            </value>
+            <label>
+                <translation lang="en">Folio</translation>
+                <translation lang="uk">Аркуш</translation>
+            </label>
+        </field>
+    </grid>
+</titleblocktemplate>

@@ -1,2 +1,3 @@
-# qelectrotech-docs-ukrainian
-Документація QElectroTech української
+# Документація QElectroTech українською
+
+Репозитарій української локалізації QElectroTech.

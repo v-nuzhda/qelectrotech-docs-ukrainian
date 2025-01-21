@@ -1,11 +1,8 @@
 <definition link_type="simple" type="element" width="40" hotspot_y="10" height="20" version="0.70" hotspot_x="27">
     <uuid uuid="{1dd720de-9d9a-4e84-8c2a-f41ad3e0acd2}"/>
     <names>
-        <name lang="fr">Actionneur manuel, symbole général</name>
-        <name lang="es">Accionado manual, simbolo general</name>
-        <name lang="de">Handantrieb</name>
-        <name lang="cs">Ruční ovládání</name>
-        <name lang="en">Actuator, manual, general symbol</name>
+        <name lang="en">S00167 Actuator, manual, general symbol</name>
+        <name lang="uk">S00167 Ручний актуатор, загальний символ</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

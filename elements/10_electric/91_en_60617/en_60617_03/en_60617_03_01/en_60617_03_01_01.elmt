@@ -1,22 +1,8 @@
 <definition hotspot_x="45" version="0.70" height="10" hotspot_y="5" width="90" type="element" link_type="simple">
     <uuid uuid="{522c5ed9-2685-41e1-aaec-4039d539b72b}"/>
     <names>
-        <name lang="fr">Liaison, pour exemple:
-- conducteur
-- câble
-- ligne
-- ligne de propagation</name>
-        <name lang="de">Verbindung, z.B.:
-- Leiter
-- Kabel
-- Leitung
-- Übertragungsweg</name>
-        <name lang="cs">Spoj, např.:
-- vodič
-- kabel
-- vedení
-- přenosová cesta</name>
-        <name lang="en">Connection, general symbol</name>
+        <name lang="en">S00001 Connection, general symbol</name>
+        <name lang="uk">S00001 З’єднання, загальний символ</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

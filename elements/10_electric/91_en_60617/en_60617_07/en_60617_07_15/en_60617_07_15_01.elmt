@@ -1,12 +1,8 @@
 <definition type="element" width="50" height="50" hotspot_y="24" hotspot_x="25" version="0.70" link_type="simple">
     <uuid uuid="{e440617a-1378-4f16-879b-e29607daa90b}"/>
     <names>
-        <name lang="de">elektromechanischer Antrieb,
-Relaisspule, allgemein</name>
-        <name lang="fr">Organe de commande,
-bobine de relais, symbole général</name>
-        <name lang="cs">Ovládací ústrojí, Cívka relé</name>
-        <name lang="en">Operating device, general symbol; Relay coil, general symbol</name>
+        <name lang="en">S00305 Operating device, general symbol; Relay coil, general symbol</name>
+        <name lang="uk">S00305 Привідний пристрій, загальний символ; Котушка реле, загальний символ</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

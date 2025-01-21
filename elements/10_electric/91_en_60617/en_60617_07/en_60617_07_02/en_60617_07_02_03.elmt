@@ -1,10 +1,8 @@
 <definition link_type="simple" type="element" width="20" hotspot_y="44" height="70" version="0.70" hotspot_x="6">
     <uuid uuid="{c5a7e766-877a-42fd-b2d0-295f1c128bda}"/>
     <names>
-        <name lang="fr">Contact à ouverture (contact de repos)</name>
-        <name lang="de">Öffner</name>
-        <name lang="cs">Vypínací kontakt</name>
-        <name lang="en">Break contact</name>
+        <name lang="en">S00229 Break contact</name>
+        <name lang="uk">S00229 Розмикальний контакт</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

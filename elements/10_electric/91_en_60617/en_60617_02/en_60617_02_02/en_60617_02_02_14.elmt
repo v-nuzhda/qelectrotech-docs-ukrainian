@@ -1,11 +1,8 @@
 <definition version="0.70" width="20" type="element" hotspot_y="5" link_type="simple" hotspot_x="10" height="10">
     <uuid uuid="{ad9f6a8e-0473-484e-a8a9-ca2ce4b45c67}"/>
     <names>
-        <name lang="fr">Polarité négative</name>
-        <name lang="de">negative Polarität</name>
-        <name lang="es">Polaridad negativa</name>
-        <name lang="cs">Záporná polarita</name>
-        <name lang="en">Negative polarity</name>
+        <name lang="en">S00078 Negative polarity</name>
+        <name lang="uk">S00078 Негативна полярність</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

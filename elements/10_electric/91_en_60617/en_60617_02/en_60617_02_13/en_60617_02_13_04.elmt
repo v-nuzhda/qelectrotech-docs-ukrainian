@@ -1,11 +1,8 @@
 <definition link_type="simple" type="element" width="40" hotspot_y="10" height="20" version="0.70" hotspot_x="27">
     <uuid uuid="{f0f4e724-d257-4420-91ab-51ad382fbd97}"/>
     <names>
-        <name lang="fr">Commande rotative</name>
-        <name lang="es">Accionado por giro</name>
-        <name lang="de">Betätigung durch Drehen </name>
-        <name lang="cs">Ovládání otáčením</name>
-        <name lang="en">Actuator (operated by turning)</name>
+        <name lang="en">S00170 Actuator (operated by turning)</name>
+        <name lang="uk">S00170 Актуатор, що приводитьсяу дію поворотом</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

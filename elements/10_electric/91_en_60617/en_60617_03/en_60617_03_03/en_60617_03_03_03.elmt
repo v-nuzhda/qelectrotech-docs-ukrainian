@@ -1,13 +1,8 @@
 <definition hotspot_x="44" version="0.70" height="10" hotspot_y="5" width="50" type="element" link_type="simple">
     <uuid uuid="{84d001cd-0aa3-4c5a-a6b1-9030a7c1ea2b}"/>
     <names>
-        <name lang="fr">Contact mâle (d’une prise ou d’une fiche)
-Fiche</name>
-        <name lang="de">Pol eines Steckers
-Stecker</name>
-        <name lang="cs">Kolíkový kontakt
-Vidlice</name>
-        <name lang="en">Contact, male (of a socket or plug)</name>
+        <name lang="en">S00032 Contact, male (of a socket or plug)</name>
+        <name lang="uk">S00032 Штировий контакт (розетки або вилки)</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

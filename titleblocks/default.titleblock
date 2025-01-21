@@ -2,49 +2,49 @@
     <information></information>
     <logos/>
     <grid rows="25;25;" cols="t22%;r100%;t22%;">
-        <field col="0" align="left" valign="center" row="0" name="author" hadjust="true" displaylabel="true">
+        <field displaylabel="true" valign="center" name="author" hadjust="true" align="left" row="0" col="0">
             <value>
                 <translation lang="en">%author</translation>
             </value>
             <label>
-                <translation lang="en">Author</translation>
                 <translation lang="uk">Автор</translation>
+                <translation lang="en">Author</translation>
             </label>
         </field>
-        <field col="1" align="center" valign="center" rowspan="1" row="0" name="title" hadjust="true" displaylabel="false">
+        <field displaylabel="false" valign="center" name="title" hadjust="true" align="center" row="0" col="1" rowspan="1">
             <value>
                 <translation lang="en">%title</translation>
             </value>
             <label>
-                <translation lang="en">Title</translation>
                 <translation lang="uk">Назва</translation>
+                <translation lang="en">Title</translation>
             </label>
         </field>
-        <field col="2" align="left" valign="center" row="0" name="file" hadjust="true" displaylabel="true">
+        <field displaylabel="true" valign="center" name="file" hadjust="true" align="left" row="0" col="2">
             <value>
                 <translation lang="en">%filename</translation>
             </value>
             <label>
-                <translation lang="en">File</translation>
                 <translation lang="uk">Файл</translation>
+                <translation lang="en">File</translation>
             </label>
         </field>
-        <field col="0" align="left" valign="center" row="1" name="date" hadjust="true" displaylabel="true">
+        <field displaylabel="true" valign="center" name="date" hadjust="true" align="left" row="1" col="0">
             <value>
                 <translation lang="en">%date</translation>
             </value>
             <label>
-                <translation lang="en">Date</translation>
                 <translation lang="uk">Дата</translation>
+                <translation lang="en">Date</translation>
             </label>
         </field>
-        <field col="2" align="left" valign="center" row="1" name="folio" hadjust="true" displaylabel="true">
+        <field displaylabel="true" valign="center" name="folio" hadjust="true" align="left" row="1" col="2">
             <value>
                 <translation lang="en">%folio</translation>
             </value>
             <label>
-                <translation lang="en">Folio</translation>
                 <translation lang="uk">Аркуш</translation>
+                <translation lang="en">Folio</translation>
             </label>
         </field>
     </grid>

@@ -1,16 +1,8 @@
 <definition link_type="terminal" width="20" height="20" hotspot_y="7" type="element" version="0.80" hotspot_x="11">
     <uuid uuid="{95725a69-d9bf-4186-938c-1f1b9256530b}"/>
     <names>
-        <name lang="it">Angolo</name>
-        <name lang="fr">Coin</name>
-        <name lang="pl">Narożnik</name>
-        <name lang="ar">ركن</name>
-        <name lang="es">Esquina</name>
-        <name lang="ru">Угол</name>
+        <name lang="uk">Кут</name>
         <name lang="en">Corner</name>
-        <name lang="de">Ecke</name>
-        <name lang="cs">Roh</name>
-        <name lang="hu">Sarok</name>
     </names>
     <elementInformations/>
     <informations></informations>

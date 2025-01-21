@@ -1,11 +1,8 @@
 <definition version="0.70" width="50" type="element" hotspot_y="10" link_type="simple" hotspot_x="13" height="20">
     <uuid uuid="{ef8c79cd-ecf8-4581-a504-7d4559129bea}"/>
     <names>
-        <name lang="fr">Courant alternatif</name>
-        <name lang="de">Wechselstrom und Spannung</name>
-        <name lang="es">Corriente alterna 50hz</name>
-        <name lang="cs">Střídavý proud 50Hz</name>
-        <name lang="en">Alternating current (indication of frequency)</name>
+        <name lang="en">S01403, S00073 Alternating current (indication of frequency)</name>
+        <name lang="uk">S01403, S00073 Змінний струм (позначення рівня частоти)</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

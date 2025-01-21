@@ -1,10 +1,8 @@
 <definition hotspot_x="4" version="0.70" height="10" hotspot_y="4" width="10" type="element" link_type="simple">
     <uuid uuid="{707b0bd8-0480-47b8-b00d-8e9493ce20b1}"/>
     <names>
-        <name lang="fr">Borne</name>
-        <name lang="de">Anschluß, z. B. Klemme</name>
-        <name lang="cs">Svorka</name>
-        <name lang="en">Terminal</name>
+        <name lang="en">S00017 Terminal</name>
+        <name lang="uk">S00017 Термінал</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

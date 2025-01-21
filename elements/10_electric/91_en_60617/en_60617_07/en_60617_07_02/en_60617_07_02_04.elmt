@@ -1,10 +1,8 @@
 <definition link_type="simple" type="element" width="30" hotspot_y="44" height="70" version="0.70" hotspot_x="24">
     <uuid uuid="{ea375583-381d-4731-bc74-be8f4f7ba4f5}"/>
     <names>
-        <name lang="fr">Contact à deux directions sans chevauchement</name>
-        <name lang="de">Wechsler mit Unterbrechung,</name>
-        <name lang="cs">Přepínací kontakt v klidové poloze sepnutý</name>
-        <name lang="en">Change-over break before make contact</name>
+        <name lang="en">S00230 Change-over break before make contact</name>
+        <name lang="uk">S00230 Перемикальний контакт, з розмиканням перед замиканням</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

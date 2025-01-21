@@ -1,11 +1,8 @@
 <definition link_type="simple" type="element" width="40" hotspot_y="10" height="20" version="0.70" hotspot_x="27">
     <uuid uuid="{8d5cec9e-78e0-4839-a213-279e8a663472}"/>
     <names>
-        <name lang="fr">Commande par tirette</name>
-        <name lang="es">Accionado por halamiento</name>
-        <name lang="de">Betätigung durch Ziehen</name>
-        <name lang="cs">Ovládání tahem</name>
-        <name lang="en">Actuator (operated by pulling)</name>
+        <name lang="en">S00169 Actuator (operated by pulling)</name>
+        <name lang="uk">S00169 Актуатор, що приводиться у дію витягуванням</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

@@ -1,11 +1,8 @@
 <definition type="element" hotspot_y="24" width="30" height="50" hotspot_x="15" version="0.70" link_type="simple">
     <uuid uuid="{ce787c30-d996-4559-8971-3cc9b1bd49f1}"/>
     <names>
-        <name lang="de">ideale Stromquelle</name>
-        <name lang="es">Fuente de energia ideal</name>
-        <name lang="fr">Source idéale de courant</name>
-        <name lang="cs">Ideální zdroj proudu</name>
-        <name lang="en">Ideal current source</name>
+        <name lang="en">S00205 Ideal current source</name>
+        <name lang="en">S00205 Ідеальне джерело струму</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

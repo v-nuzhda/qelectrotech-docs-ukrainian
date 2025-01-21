@@ -1,16 +1,8 @@
 <definition hotspot_y="9" link_type="terminal" height="20" hotspot_x="9" version="0.80" type="element" width="20">
     <uuid uuid="{30794dcd-a269-4b6b-8231-c88d89a91e27}"/>
     <names>
-        <name lang="cs">Kříž</name>
-        <name lang="ar">صليب</name>
-        <name lang="hu">Kereszt alakú</name>
-        <name lang="it">Croce</name>
-        <name lang="pl">Połączenie 2</name>
-        <name lang="ru">Пересечение</name>
-        <name lang="fr">Croix</name>
-        <name lang="de">Kreuz</name>
+        <name lang="uk">Перетин</name>
         <name lang="en">Cross</name>
-        <name lang="es">Cruzar</name>
     </names>
     <elementInformations/>
     <informations></informations>

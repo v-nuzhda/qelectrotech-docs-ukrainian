@@ -5,14 +5,14 @@ rem detect the current folder and assumes that it contains bin\qelectrotech.exe 
 set current_dir=%~dp0
 cd /d %current_dir%
 
-set expected_qet_exe=%current_dir%QET.bat
+set expected_qet_exe=%current_dir%qelectrotech.bat
 set expected_project_ico=%current_dir%ico\application-x-qet-project.ico
 set expected_element_ico=%current_dir%ico\application-x-qet-element.ico
 set expected_titleblock_ico=%current_dir%ico\application-x-qet-titleblock.ico
 
 rem check if qelectrotech.exe file exists
 if not exist "%expected_qet_exe%" (
-	echo Le fichier %expected_qet_exe% n'a pas ete trouve. Abandon.
+	echo The file %expected_qet_exe% was not found. Aborting.
 	pause
 	exit /b 1
 )
@@ -20,7 +20,7 @@ if not exist "%expected_qet_exe%" (
 
 rem check if qet-diagram.ico file exists
 if not exist "%expected_project_ico%" (
-	echo Le fichier %expected_project_ico% n'a pas ete trouve. Abandon.
+	echo The file %expected_project_ico% was not found. Aborting.
 	pause
 	exit /b 1
 )
@@ -28,7 +28,7 @@ if not exist "%expected_project_ico%" (
 
 rem check if qet-element.ico file exists
 if not exist "%expected_element_ico%" (
-	echo Le fichier %expected_element_ico% n'a pas ete trouve. Abandon.
+	echo The file %expected_element_ico% was not found. Aborting.
 	pause
 	exit /b 1
 )
@@ -36,7 +36,7 @@ if not exist "%expected_element_ico%" (
 
 rem check if qet-titleblock.ico file exists
 if not exist "%expected_titleblock_ico%" (
-	echo Le fichier %expected_titleblock_ico% n'a pas ete trouve. Abandon.
+	echo The file %expected_titleblock_ico% was not found. Aborting.
 	pause
 	exit /b 1
 )
@@ -54,11 +54,11 @@ set reg_file=qet_install_file_associations.reg
 	echo Windows Registry Editor Version 5.00
 	echo.
 	
-	rem Declaration de l'application
+	rem Application declaration
 	echo [HKEY_CLASSES_ROOT\Applications\qelectrotech.exe\shell\open\command]
 	echo @="\"%final_qet_exe%\" \"%%1\""
 	
-	rem association de fichier *.qet
+	rem file association *.qet
 	echo [HKEY_CLASSES_ROOT\.qet]
 	echo @="qet_diagram_file"
 	echo [HKEY_CLASSES_ROOT\qet_diagram_file]
@@ -70,7 +70,7 @@ set reg_file=qet_install_file_associations.reg
 	echo [HKEY_CLASSES_ROOT\qet_diagram_file\shell\open\command]
 	echo @="\"%final_qet_exe%\" \"%%1\""
 	
-	rem association de fichier *.elmt
+	rem file association *.elmt
 	echo [HKEY_CLASSES_ROOT\.elmt]
 	echo @="qet_element_file"
 	echo [HKEY_CLASSES_ROOT\qet_element_file]
@@ -82,7 +82,7 @@ set reg_file=qet_install_file_associations.reg
 	echo [HKEY_CLASSES_ROOT\qet_element_file\shell\open\command]
 	echo @="\"%final_qet_exe%\" \"%%1\""
 	
-	rem association de fichier *.titleblock
+	rem file association *.titleblock
 	echo [HKEY_CLASSES_ROOT\.titleblock]
 	echo @="qet_titleblock_file"
 	echo [HKEY_CLASSES_ROOT\qet_titleblock_file]
@@ -95,21 +95,21 @@ set reg_file=qet_install_file_associations.reg
 	echo @="\"%final_qet_exe%\" \"%%1\""
 ) > %reg_file%
 
-rem verifie que le fichier a bien ete ecrit
+rem check if file has been written correctly
 if not exist %reg_file% (
-	echo Impossible de creer le fichier %reg_file%. Abandon.
+	echo Unable to create file %reg_file%. Aborting.
 	pause
 	exit /b 1
 )
 
-rem Applique le .reg genere
+rem Apply the generated .reg
 regedit.exe /s %reg_file%
 if errorlevel 1 (
-	echo La prise en compte du fichier %reg_file% a echoue.
+	echo Failed to take file %reg_file% into account.
 	pause
 	exit /b 1
 ) else (
-	echo Les associations de fichier ont bien ete crees.
+	echo The file associations have been successfully created.
 	pause
 	exit /b 0
 )

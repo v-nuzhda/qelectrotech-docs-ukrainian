@@ -1398,3 +1398,5 @@
 23:41:13.688 Debug: "exporting diagram \"\"" [ Diagram(0x2e0d0efe5c0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
 23:43:13.687 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:916, QDomDocument QETProject::toXml())
 23:43:13.687 Debug: "exporting diagram \"\"" [ Diagram(0x2e0d0efe5c0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+23:44:46.096 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:916, QDomDocument QETProject::toXml())
+23:44:46.096 Debug: "exporting diagram \"\"" [ Diagram(0x2e0d0efe5c0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())

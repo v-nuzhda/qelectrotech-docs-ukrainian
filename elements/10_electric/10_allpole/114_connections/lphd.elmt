@@ -1,11 +1,8 @@
 <definition type="element" width="30" hotspot_y="12" version="0.90" height="30" link_type="simple" hotspot_x="14">
     <uuid uuid="{9b3513fd-694f-4fc7-8b7e-66b733b9b4e1}"/>
     <names>
-        <name lang="de">Klemmstelle (3)</name>
-        <name lang="cs">Všestranný spoj</name>
-        <name lang="hu">Egyesítő négy vezetékhez</name>
-        <name lang="fr">
-Connecteur pour quatre fils</name>
+        <name lang="uk">Роз'єм для чотирьох проводів</name>
+        <name lang="en">Four wires connector</name>
     </names>
     <elementInformations/>
     <informations></informations>

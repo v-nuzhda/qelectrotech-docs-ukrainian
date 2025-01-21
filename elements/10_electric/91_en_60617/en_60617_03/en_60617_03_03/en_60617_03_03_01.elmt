@@ -1,13 +1,7 @@
 <definition hotspot_x="38" version="0.70" height="20" hotspot_y="10" width="50" type="element" link_type="simple">
     <uuid uuid="{f982b872-7d1a-466a-9edc-ba1cdbe37062}"/>
-    <names>
-        <name lang="fr">Contact femelle (d’une prise ou d’une fiche)
-Prise</name>
-        <name lang="de">Pol einer Steckbuchse
-Buchse</name>
-        <name lang="cs">Zásuvkový kontakt
-Zásuvka</name>
-        <name lang="en">Contact, female (of a socket or plug)</name>
+        <name lang="en">S00031 Contact, female (of a socket or plug)</name>
+        <name lang="uk">S00031 Гніздовий контакт (розетки або вилки)</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

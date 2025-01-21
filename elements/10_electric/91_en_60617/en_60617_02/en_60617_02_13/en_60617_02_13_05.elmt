@@ -1,11 +1,8 @@
 <definition link_type="simple" type="element" width="40" hotspot_y="10" height="20" version="0.70" hotspot_x="27">
     <uuid uuid="{317ce57c-13fe-48cf-a24a-49653a0e2101}"/>
     <names>
-        <name lang="fr">Commande par poussoir</name>
-        <name lang="es">Accionado por presión manual</name>
-        <name lang="de">Betätigung durch Drücken</name>
-        <name lang="cs">Ovládání tlakem</name>
-        <name lang="en">Actuator (operated by pushing)</name>
+        <name lang="en">S00171 Actuator (operated by pushing)</name>
+        <name lang="uk">S00171 Актуатор, що приводиться у дію поштовхом, натисканням</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

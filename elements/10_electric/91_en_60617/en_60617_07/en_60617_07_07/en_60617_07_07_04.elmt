@@ -1,12 +1,10 @@
 <definition link_type="simple" type="element" width="40" hotspot_y="44" height="70" version="0.70" hotspot_x="35">
     <uuid uuid="{bff43841-9b32-4d88-9d45-63a9bbec362f}"/>
     <names>
-        <name lang="fr">Contact à fermeture à commande manuelle,
-symbole général</name>
-        <name lang="de">handbetätigter Schalter, allgemein</name>
-        <name lang="cs">Otočný spínač se zapínacím kontaktem
-bez samočinného návratu</name>
-        <name lang="en">Switch, manually operated, turning, stay-put</name>
+        <name lang="en">S00256 Switch, manually operated, turning, stay-put</name>
+        <name lang="uk">S00256 Вимикач з ручним керуванням, 
+поворотом актуатора та фіксацією 
+у кінцевому положенні</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

@@ -1,18 +1,8 @@
 <definition hotspot_x="21" hotspot_y="10" version="0.80" type="element" height="20" link_type="next_report" width="30">
     <uuid uuid="{2e596a05-ef45-4895-b826-942d28c2d038}"/>
     <names>
-        <name lang="de">Nächste Folie</name>
-        <name lang="ar">الصفحة التالية</name>
-        <name lang="fr">Folio suivant</name>
-        <name lang="hu">Elmenő hivatkozás</name>
-        <name lang="it">Foglio successivo</name>
-        <name lang="el">Επόμενη σελίδα</name>
         <name lang="en">Going arrow</name>
-        <name lang="es">Folio siguiente</name>
-        <name lang="nl">Referentie volgend</name>
-        <name lang="pl">Wyjście adresowe</name>
-        <name lang="ru">Следующая страница</name>
-        <name lang="cs">Další list</name>
+        <name lang="uk">Стрілка (наступна сторінка)</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

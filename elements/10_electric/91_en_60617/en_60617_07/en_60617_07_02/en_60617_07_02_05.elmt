@@ -1,11 +1,8 @@
 <definition version="0.70" width="30" type="element" hotspot_y="44" link_type="simple" hotspot_x="14" height="70">
     <uuid uuid="{cab8cba1-0908-4b67-a21e-ea3592c27d38}"/>
     <names>
-        <name lang="fr">Contact à deux directions avec position
-médiane de coupure</name>
-        <name lang="de">Wechsler mit Mittelstellung "Aus"</name>
-        <name lang="cs">Přepínací kontakt se střední klidovou polohou</name>
-        <name lang="en">Change-over contact with off-position</name>
+        <name lang="en">S00231 Change-over contact with off-position</name>
+        <name lang="uk">S00231 Перемикальний контакт, з нейтральним положенням</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

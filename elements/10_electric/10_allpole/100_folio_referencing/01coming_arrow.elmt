@@ -1,18 +1,8 @@
 <definition height="20" version="0.80" width="30" hotspot_x="8" link_type="previous_report" hotspot_y="10" type="element">
     <uuid uuid="{994d5b97-25b5-49aa-93ae-c1857ab866ea}"/>
     <names>
-        <name lang="ar">الصفحة السابقة</name>
-        <name lang="ru">Предыдущая страница</name>
-        <name lang="es">folio anterior</name>
-        <name lang="it">Foglio precedente</name>
-        <name lang="de">Vorherige Folie</name>
-        <name lang="el">Προηγούμενη σελίδα</name>
+        <name lang="uk">Стрілка(попередня сторінка)</name>
         <name lang="en">Coming arrow</name>
-        <name lang="cs">Předchozí list</name>
-        <name lang="fr">Folio précédent</name>
-        <name lang="pl">Wejście adresowe</name>
-        <name lang="hu">Beérkező hivatkozás</name>
-        <name lang="nl">Referentie Vorig</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

@@ -1,11 +1,8 @@
 <definition link_type="simple" type="element" width="30" hotspot_y="44" height="70" version="0.70" hotspot_x="24">
     <uuid uuid="{0689a41d-8a35-4326-ad4e-0c2df52c8928}"/>
     <names>
-        <name lang="fr">Contact à deux directions avec chevauchement</name>
-        <name lang="de">Wechsler ohne Unterbrechung,
-Folgeumschaltglied</name>
-        <name lang="cs">Kontakt přepínací bez přerušení obvodu</name>
-        <name lang="en">Change-over make before break contact, both ways</name>
+        <name lang="en">S00232 Change-over make before break contact, both ways</name>
+        <name lang="uk">S00232 Перемикальний контакт, із замиканням перед розмиканням, в обох напрямах</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

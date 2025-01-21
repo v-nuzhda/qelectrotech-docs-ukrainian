@@ -1,10 +1,8 @@
 <definition link_type="simple" type="element" width="20" hotspot_y="44" height="70" version="0.70" hotspot_x="13">
     <uuid uuid="{7aca8cd4-b1b3-4794-9021-2e7532514e1d}"/>
     <names>
-        <name lang="fr">Contact à fermeture (contact de travail)</name>
-        <name lang="de">Schließer</name>
-        <name lang="cs">Zapínací kontakt</name>
-        <name lang="en">Make contact, general symbol; Switch, general symbol</name>
+        <name lang="en">S00227 Make contact, general symbol; Switch, general symbol</name>
+        <name lang="uk">S00227 Замикальний контакт, загальний символ; Вимикач, загальний символ</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

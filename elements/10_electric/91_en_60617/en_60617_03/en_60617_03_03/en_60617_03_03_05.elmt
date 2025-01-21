@@ -1,10 +1,8 @@
 <definition hotspot_x="24" version="0.70" height="20" hotspot_y="10" width="70" type="element" link_type="simple">
     <uuid uuid="{b3035bd1-9a08-4db7-8332-c76f4ac255ba}"/>
     <names>
-        <name lang="fr">Fiche et prise</name>
-        <name lang="de">Stecker und Buchse</name>
-        <name lang="cs">Vidlice a zásuvka</name>
-        <name lang="en">Plug and socket</name>
+        <name lang="en">S00032 Plug and socket</name>
+        <name lang="uk">S00032 Розетка та вилка</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

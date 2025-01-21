@@ -1,0 +1,241 @@
+<project title="test2" version="0.90">
+    <titleblocktemplates>
+        <titleblocktemplate name="ДСТУ EN ISO 7200 A4">
+            <information/>
+            <logos/>
+            <grid rows="15;15;15;15;15;15;" cols="133px;125px;199px;65px;84px;37px;37px;">
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="0" fontsize="7" col="0">
+                    <value>
+                        <translation lang="uk">Відповідальна організація</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="0" fontsize="7" col="1">
+                    <value>
+                        <translation lang="uk">Технічне узгодження</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" colspan="1" align="left" row="0" fontsize="7" col="2">
+                    <value>
+                        <translation lang="uk">Вид документа</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="true" valign="center" name="" hadjust="true" colspan="2" align="center" row="0" fontsize="7" col="4">
+                    <value>
+                        <translation lang="uk">Статус документа</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="1" fontsize="10" col="0">
+                    <value>
+                        <translation lang="en">%department</translation>
+                    </value>
+                    <label>
+                        <translation lang="uk">Відповідальна організація</translation>
+                    </label>
+                </field>
+                <field displaylabel="false" valign="center" name="reference" hadjust="true" align="left" row="1" fontsize="10" col="1">
+                    <value>
+                        <translation lang="en">%referenced-by</translation>
+                    </value>
+                    <label>
+                        <translation lang="uk">Технічне узгодження</translation>
+                        <translation lang="en">Ref</translation>
+                    </label>
+                </field>
+                <field displaylabel="false" valign="center" name="author" hadjust="true" colspan="1" align="left" row="1" fontsize="10" col="2">
+                    <value>
+                        <translation lang="en">%projecttitle</translation>
+                    </value>
+                    <label>
+                        <translation lang="cs">Soubor</translation>
+                        <translation lang="fr">auteur</translation>
+                        <translation lang="pl">Plik</translation>
+                        <translation lang="ro">Fisier</translation>
+                        <translation lang="en">author</translation>
+                        <translation lang="ar">ملف</translation>
+                        <translation lang="el">Αρχείο</translation>
+                        <translation lang="da">Forfatter</translation>
+                        <translation lang="hr">Datoteka</translation>
+                        <translation lang="nl">auteur</translation>
+                        <translation lang="ca">Fitxer</translation>
+                        <translation lang="de">Autor</translation>
+                        <translation lang="pt">Ficheiro</translation>
+                        <translation lang="it">File</translation>
+                        <translation lang="ru">Файл</translation>
+                        <translation lang="es">Archivo</translation>
+                    </label>
+                </field>
+                <field displaylabel="false" valign="center" name="" colspan="2" align="center" row="1" fontsize="9" col="4">
+                    <value>
+                        <translation lang="en">%project-status</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="center" row="2" fontsize="10" col="0" rowspan="3">
+                    <value>
+                        <translation lang="uk">Власник документа</translation>
+                        <translation lang="en">Legal owner</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="ВААА" hadjust="true" align="left" row="2" fontsize="7" col="1">
+                    <value>
+                        <translation lang="uk">Розробник документа</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="2" fontsize="7" col="2">
+                    <value>
+                        <translation lang="uk">Назва, додаткова назва</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" colspan="3" align="center" row="2" fontsize="9" col="3" rowspan="1">
+                    <value>
+                        <translation lang="en">%project-code</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="3" fontsize="9" col="1">
+                    <value>
+                        <translation lang="en">%created-by</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="type" hadjust="true" align="center" row="3" fontsize="10" col="2" rowspan="2">
+                    <value>
+                        <translation lang="en">%title</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="4" fontsize="7" col="1">
+                    <value>
+                        <translation lang="uk">Документ затверджено</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="drawingname" hadjust="true" align="center" row="4" fontsize="7" col="3">
+                    <value>
+                        <translation lang="uk">Ідн. змін.</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="true" valign="center" name="" hadjust="true" align="center" row="4" fontsize="7" col="4">
+                    <value>
+                        <translation lang="uk">Дата видання</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="center" row="4" fontsize="7" col="5">
+                    <value>
+                        <translation lang="uk">Мова</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="true" valign="center" name="" hadjust="true" align="center" row="4" fontsize="7" col="6">
+                    <value>
+                        <translation lang="uk">Аркуш</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="5" fontsize="10" col="1">
+                    <value>
+                        <translation lang="en">%approved-by</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="Revision" hadjust="true" align="center" row="5" fontsize="10" col="3">
+                    <value>
+                        <translation lang="en">%indexrev</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="Date" hadjust="true" align="center" row="5" fontsize="10" col="4">
+                    <value>
+                        <translation lang="en">%date</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="true" valign="bottom" name="country" hadjust="true" align="center" row="5" fontsize="9" col="5">
+                    <value>
+                        <translation lang="en">%lang</translation>
+                    </value>
+                    <label/>
+                </field>
+                <field displaylabel="false" valign="center" name="folio" hadjust="true" align="center" row="5" fontsize="9" col="6">
+                    <value>
+                        <translation lang="fr">%{folio-id}/%{folio-total}</translation>
+                        <translation lang="en">%{folio-id}/%{folio-total}</translation>
+                        <translation lang="nl">%{folio-id}/%{folio-total}</translation>
+                    </value>
+                    <label/>
+                </field>
+            </grid>
+        </titleblocktemplate>
+    </titleblocktemplates>
+    <properties>
+        <property name="savedfilepath" show="1">C:/Users/vnuzh/OneDrive/Рабочий стол/QET/test.qet</property>
+        <property name="saveddate" show="1">21.01.2025</property>
+        <property name="saveddate-us" show="1">2025-01-21</property>
+        <property name="savedtime" show="1">13:35</property>
+        <property name="savedfilename" show="1">test</property>
+        <property name="saveddate-eu" show="1">21-01-2025</property>
+        <property name="lang" show="1"></property>
+        <property name="created-by" show="1"></property>
+        <property name="referenced-by" show="1"></property>
+        <property name="project-code" show="1"></property>
+        <property name="title" show="1"></property>
+        <property name="indexrev" show="1"></property>
+        <property name="project-status" show="1"></property>
+        <property name="date" show="1"></property>
+        <property name="projecttitle" show="1"></property>
+        <property name="department" show="1"></property>
+        <property name="approved-by" show="1"></property>
+    </properties>
+    <newdiagrams>
+        <border rows="8" colsize="60" rowsize="80" cols="17" displaycols="true" displayrows="true"/>
+        <inset folio="%id/%total" plant="" author="" title="" indexrev="A" titleblocktemplate="ДСТУ EN ISO 7200 A4" titleblocktemplateCollection="common" date="null" version="" filename="" auto_page_num="" locmach="" displayAt="bottom">
+        </inset>
+        <conductors condsize="1" bicolor="false" horizontal-alignment="AlignBottom" tension_protocol="" num="_" cable="" conductor_section="" color2="#000000" numsize="7" dash-size="2" formula="" onetextperfolio="0" function="" horizrotatetext="0" text_color="#000000" bus="" type="multi" conductor_color="" displaytext="1" vertical-alignment="AlignRight" vertirotatetext="270"/>
+        <report label="%f-%l%c"/>
+        <xrefs>
+            <xref switchprefix="" slave_label="(%f-%l%c)" offset="0" type="protection" powerprefix="" master_label="%f-%l%c" xrefpos="" delayprefix="" snapto="label" showpowerctc="true" displayhas="cross"/>
+            <xref switchprefix="" slave_label="(%f-%l%c)" offset="0" type="commutator" powerprefix="" master_label="%f-%l%c" xrefpos="" delayprefix="" snapto="label" showpowerctc="true" displayhas="cross"/>
+            <xref switchprefix="" slave_label="(%f-%l%c)" offset="40" type="coil" powerprefix="" master_label="%f-%l%c" xrefpos="AlignTop" delayprefix="" snapto="label" showpowerctc="true" displayhas="cross"/>
+        </xrefs>
+        <conductors_autonums current_autonum="" freeze_new_conductors="false"/>
+        <folio_autonums/>
+        <element_autonums freeze_new_elements="false" current_autonum=""/>
+    </newdiagrams>
+    <diagram colsize="60" titleblocktemplate="ДСТУ EN ISO 7200 A4" folio="%id/%total" titleblocktemplateCollection="embedded" date="null" title="" indexrev="A" rows="8" author="" freezeNewConductor="false" rowsize="80" displaycols="true" locmach="" auto_page_num="" order="1" displayrows="true" displayAt="bottom" cols="17" freezeNewElement="false" version="0.90+c7891bc4cb0a58100c957a06d79751d3" height="660" plant="" filename="">
+        <defaultconductor condsize="1" bicolor="false" horizontal-alignment="AlignBottom" tension_protocol="" num="_" cable="" conductor_section="" color2="#000000" numsize="7" dash-size="2" formula="" onetextperfolio="0" function="" horizrotatetext="0" text_color="#000000" bus="" type="multi" conductor_color="" displaytext="1" vertical-alignment="AlignRight" vertirotatetext="270"/>
+    </diagram>
+    <collection>
+        <category name="import">
+            <names>
+                <name lang="nl">Elementen geïmporteerd</name>
+                <name lang="ro">Elemente importate</name>
+                <name lang="cs">Zavedené prvky</name>
+                <name lang="en">Imported elements</name>
+                <name lang="uk">Імпортовані елементи</name>
+                <name lang="ja">インバートされた要素</name>
+                <name lang="de">Importierte elemente</name>
+                <name lang="fr">Éléments importés</name>
+                <name lang="sl">Uvoženi elementi</name>
+                <name lang="hr">Uvezeni elementi</name>
+                <name lang="pl">Elementy importowane</name>
+                <name lang="ru">Импортированные элементы</name>
+                <name lang="tr">İthal öğeler</name>
+                <name lang="da">Importerede elementer</name>
+                <name lang="pt">elementos importados</name>
+                <name lang="el">Εισηγμένα στοιχεία</name>
+                <name lang="ca">Elements importats</name>
+                <name lang="es">Elementos importados</name>
+                <name lang="it">Elementi importati</name>
+            </names>
+        </category>
+    </collection>
+</project>

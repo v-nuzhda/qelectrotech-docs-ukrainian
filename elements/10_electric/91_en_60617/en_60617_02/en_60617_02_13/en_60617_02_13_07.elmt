@@ -1,10 +1,6 @@
 <definition link_type="simple" type="element" width="40" hotspot_y="10" height="20" version="0.70" hotspot_x="29">
     <uuid uuid="{c0ac2f5e-c04b-4755-8752-17e02111e62f}"/>
     <names>
-        <name lang="fr">Commande par effleurement</name>
-        <name lang="es">Accionado por dispositivo térmico</name>
-        <name lang="de">Betätigung durch Berühren</name>
-        <name lang="cs">Ovládání dotykem</name>
         <name lang="en">Actuator (operated by touching)</name>
     </names>
     <informations>Author: The QElectroTech team

@@ -2,8 +2,7 @@
     <uuid uuid="{5d1646da-9823-448b-9e9f-e63e783ef11a}"/>
     <names>
         <name lang="en">Contactor 2 changeover 3 poles</name>
-        <name lang="fr">Contacteur 2 inverseur 3 poles </name>
-        <name lang="cs">Stykač 2 s mech. blokováním 3p</name>
+        <name lang="uk">Контактор 2 інверсія 3 полюси </name>
     </names>
     <kindInformations>
         <kindInformation name="number" show="1">3</kindInformation>

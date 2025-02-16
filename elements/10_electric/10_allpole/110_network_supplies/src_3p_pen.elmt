@@ -1,18 +1,8 @@
 <definition width="40" link_type="simple" version="0.5" hotspot_x="23" height="80" hotspot_y="41" type="element">
     <uuid uuid="{c0913e95-3b3c-4dc2-a74d-bc73ded78c32}"/>
     <names>
-        <name lang="es">Fuente tripolar + PEN</name>
-        <name lang="nl">driefasen + aardenul</name>
-        <name lang="el">Τριφασικό + PEN</name>
-        <name lang="de">Drehstrom + PEN</name>
-        <name lang="cs">Přípojnice 3f+PEN</name>
-        <name lang="pl">Linia trójfazowa (PEN)</name>
-        <name lang="it">Sorgente tripolare + PEN</name>
-        <name lang="ar">مصدر ثلاثي القطبيّة + PEN</name>
         <name lang="en">Three-pole source + PEN</name>
-        <name lang="fr">Source tripolaire + PEN</name>
-        <name lang="ru">Трёхполюсный + PEN</name>
-	    <name lang="hu">3F + PEN</name>
+        <name lang="uk">Введення трифазне L1+L2+L3+PE</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

@@ -568,6 +568,12 @@
       <category name="01_thumbnails_mounting_plate"></category>
       <category name="21_signaling_operating">
         <category name="21_size_2x2"></category>
+          <category name="01_lights">
+              <prefix>HL</prefix>
+          </category>
+          <category name="02_button_turning">
+              <prefix>SA</prefix>
+          </category>
         <category name="31_size_4x4"></category>
       </category>
     </category>

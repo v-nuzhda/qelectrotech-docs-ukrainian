@@ -1,32 +1,32 @@
 <titleblocktemplate name="ДСТУ EN ISO 7200 A4">
     <information></information>
     <logos/>
-    <grid rows="15;15;15;15;15;15;" cols="133px;125px;199px;65px;84px;37px;37px;">
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="0" fontsize="7" col="0">
+    <grid cols="133px;125px;r100%;65px;84px;37px;37px;" rows="15;15;15;15;15;15;">
+        <field align="left" hadjust="true" name="" row="0" displaylabel="false" fontsize="7" valign="center" col="0">
             <value>
                 <translation lang="uk">Відповідальна організація</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="0" fontsize="7" col="1">
+        <field align="left" hadjust="true" name="" row="0" displaylabel="false" fontsize="7" valign="center" col="1">
             <value>
                 <translation lang="uk">Технічне узгодження</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" colspan="1" align="left" row="0" fontsize="7" col="2">
+        <field align="left" colspan="1" hadjust="true" name="" row="0" displaylabel="false" fontsize="7" valign="center" col="2">
             <value>
                 <translation lang="uk">Вид документа</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="true" valign="center" name="" hadjust="true" colspan="2" align="center" row="0" fontsize="7" col="4">
+        <field align="center" colspan="2" hadjust="true" name="" row="0" displaylabel="true" fontsize="7" valign="center" col="4">
             <value>
                 <translation lang="uk">Статус документа</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="1" fontsize="10" col="0">
+        <field align="left" hadjust="true" name="" row="1" displaylabel="false" fontsize="10" valign="center" col="0">
             <value>
                 <translation lang="en">%department</translation>
             </value>
@@ -34,7 +34,7 @@
                 <translation lang="uk">Відповідальна організація</translation>
             </label>
         </field>
-        <field displaylabel="false" valign="center" name="reference" hadjust="true" align="left" row="1" fontsize="10" col="1">
+        <field align="left" hadjust="true" name="reference" row="1" displaylabel="false" fontsize="10" valign="center" col="1">
             <value>
                 <translation lang="en">%referenced-by</translation>
             </value>
@@ -43,131 +43,131 @@
                 <translation lang="en">Ref</translation>
             </label>
         </field>
-        <field displaylabel="false" valign="center" name="author" hadjust="true" colspan="1" align="left" row="1" fontsize="10" col="2">
+        <field align="left" colspan="1" hadjust="true" name="author" row="1" displaylabel="false" fontsize="10" valign="center" col="2">
             <value>
                 <translation lang="en">%projecttitle</translation>
             </value>
             <label>
-                <translation lang="cs">Soubor</translation>
                 <translation lang="fr">auteur</translation>
                 <translation lang="pl">Plik</translation>
+                <translation lang="pt">Ficheiro</translation>
                 <translation lang="ro">Fisier</translation>
-                <translation lang="en">author</translation>
-                <translation lang="ar">ملف</translation>
                 <translation lang="el">Αρχείο</translation>
+                <translation lang="ru">Файл</translation>
                 <translation lang="da">Forfatter</translation>
                 <translation lang="hr">Datoteka</translation>
-                <translation lang="nl">auteur</translation>
                 <translation lang="ca">Fitxer</translation>
-                <translation lang="de">Autor</translation>
-                <translation lang="pt">Ficheiro</translation>
                 <translation lang="it">File</translation>
-                <translation lang="ru">Файл</translation>
+                <translation lang="nl">auteur</translation>
+                <translation lang="cs">Soubor</translation>
                 <translation lang="es">Archivo</translation>
+                <translation lang="en">author</translation>
+                <translation lang="ar">ملف</translation>
+                <translation lang="de">Autor</translation>
             </label>
         </field>
-        <field displaylabel="false" valign="center" name="" colspan="2" align="center" row="1" fontsize="9" col="4">
+        <field align="center" colspan="2" hadjust="true" name="" row="1" displaylabel="false" fontsize="9" valign="center" col="4">
             <value>
                 <translation lang="en">%project-status</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="center" row="2" fontsize="10" col="0" rowspan="3">
+        <field align="center" hadjust="true" name="" row="2" displaylabel="false" fontsize="10" valign="center" col="0" rowspan="3">
             <value>
                 <translation lang="uk">Власник документа</translation>
                 <translation lang="en">Legal owner</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="ВААА" hadjust="true" align="left" row="2" fontsize="7" col="1">
+        <field align="left" hadjust="true" name="ВААА" row="2" displaylabel="false" fontsize="7" valign="center" col="1">
             <value>
                 <translation lang="uk">Розробник документа</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="2" fontsize="7" col="2">
+        <field align="left" hadjust="true" name="" row="2" displaylabel="false" fontsize="7" valign="center" col="2">
             <value>
                 <translation lang="uk">Назва, додаткова назва</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" colspan="3" align="center" row="2" fontsize="9" col="3" rowspan="1">
+        <field align="center" colspan="3" hadjust="true" name="" row="2" displaylabel="false" fontsize="9" valign="center" col="3" rowspan="1">
             <value>
                 <translation lang="en">%project-code</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="3" fontsize="9" col="1">
+        <field align="left" hadjust="true" name="" row="3" displaylabel="false" fontsize="9" valign="center" col="1">
             <value>
                 <translation lang="en">%created-by</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="type" hadjust="true" align="center" row="3" fontsize="10" col="2" rowspan="2">
+        <field align="center" hadjust="true" name="type" row="3" displaylabel="false" fontsize="10" valign="center" col="2" rowspan="2">
             <value>
                 <translation lang="en">%title</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="4" fontsize="7" col="1">
+        <field align="left" hadjust="true" name="" row="4" displaylabel="false" fontsize="7" valign="center" col="1">
             <value>
                 <translation lang="uk">Документ затверджено</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="drawingname" hadjust="true" align="center" row="4" fontsize="7" col="3">
+        <field align="center" hadjust="true" name="drawingname" row="4" displaylabel="false" fontsize="7" valign="center" col="3">
             <value>
                 <translation lang="uk">Ідн. змін.</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="true" valign="center" name="" hadjust="true" align="center" row="4" fontsize="7" col="4">
+        <field align="center" hadjust="true" name="" row="4" displaylabel="true" fontsize="7" valign="center" col="4">
             <value>
                 <translation lang="uk">Дата видання</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="center" row="4" fontsize="7" col="5">
+        <field align="center" hadjust="true" name="" row="4" displaylabel="false" fontsize="7" valign="center" col="5">
             <value>
                 <translation lang="uk">Мова</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="true" valign="center" name="" hadjust="true" align="center" row="4" fontsize="7" col="6">
+        <field align="center" hadjust="true" name="" row="4" displaylabel="true" fontsize="7" valign="center" col="6">
             <value>
                 <translation lang="uk">Аркуш</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="" hadjust="true" align="left" row="5" fontsize="10" col="1">
+        <field align="left" hadjust="true" name="" row="5" displaylabel="false" fontsize="10" valign="center" col="1">
             <value>
                 <translation lang="en">%approved-by</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="Revision" hadjust="true" align="center" row="5" fontsize="10" col="3">
+        <field align="center" hadjust="true" name="Revision" row="5" displaylabel="false" fontsize="10" valign="center" col="3">
             <value>
                 <translation lang="en">%indexrev</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="Date" hadjust="true" align="center" row="5" fontsize="10" col="4">
+        <field align="center" hadjust="true" name="Date" row="5" displaylabel="false" fontsize="10" valign="center" col="4">
             <value>
                 <translation lang="en">%date</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="true" valign="bottom" name="country" hadjust="true" align="center" row="5" fontsize="9" col="5">
+        <field align="center" hadjust="true" name="country" row="5" displaylabel="true" fontsize="9" valign="bottom" col="5">
             <value>
                 <translation lang="en">%lang</translation>
             </value>
             <label/>
         </field>
-        <field displaylabel="false" valign="center" name="folio" hadjust="true" align="center" row="5" fontsize="9" col="6">
+        <field align="center" hadjust="true" name="folio" row="5" displaylabel="false" fontsize="9" valign="center" col="6">
             <value>
                 <translation lang="fr">%{folio-id}/%{folio-total}</translation>
-                <translation lang="en">%{folio-id}/%{folio-total}</translation>
                 <translation lang="nl">%{folio-id}/%{folio-total}</translation>
+                <translation lang="en">%{folio-id}/%{folio-total}</translation>
             </value>
             <label/>
         </field>

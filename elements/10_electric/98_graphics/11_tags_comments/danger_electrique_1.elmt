@@ -1,14 +1,8 @@
 <definition version="0.5" link_type="simple" type="element" hotspot_x="15" width="30" hotspot_y="15" height="30">
     <uuid uuid="{34a29284-e88f-4808-aca5-add80d1db628}"/>
     <names>
-        <name lang="el">Κίνδυνος ηλεκτροπληξίας</name>
-        <name lang="it">Pericolo elettrico</name>
-        <name lang="fr">Danger electrique</name>
-        <name lang="de">Hinweis elektrische Gefahr klein</name>
-        <name lang="pl">Pod napięciem</name>
         <name lang="en">Danger electric</name>
-        <name lang="cs">Pozor! Pod napětím</name>
-        <name lang="nl">Gevaar elektrisch klein</name>
+        <name lang="uk">Увага! Під напругою</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>

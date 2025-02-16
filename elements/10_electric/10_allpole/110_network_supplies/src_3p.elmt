@@ -1,19 +1,8 @@
 <definition width="30" link_type="simple" version="0.5" hotspot_x="15" height="60" hotspot_y="30" type="element">
     <uuid uuid="{03b9e482-cb45-4bee-8030-96b93624fc60}"/>
     <names>
-        <name lang="pt">Fonte tripolar</name>
-        <name lang="es">Fuente tripolar</name>
-        <name lang="nl">3fasen</name>
-        <name lang="el">Τριφασικό</name>
-        <name lang="de">Drehstrom</name>
-        <name lang="cs">Přípojnice 3f</name>
-        <name lang="pl">Linia trójfazowa (trójprzewodowa)</name>
-        <name lang="it">Sorgente tripolare</name>
-        <name lang="ar">مصدر ثلاثي القطبيّة</name>
         <name lang="en">Three-pole source</name>
-        <name lang="fr">Source tripolaire</name>
-        <name lang="ru">Трёхполюсный</name>
-	    <name lang="hu">3F</name>
+        <name lang="uk">Введення трифазне L1+L2+L3</name>
     </names>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
